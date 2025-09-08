@@ -29,7 +29,7 @@ Product Performance: Analyzed sales volume and profitability to determine best-s
 
 Geographic & Demographic Analysis: Examined sales performance across different countries and customer age groups to pinpoint key markets and consumer segments.
 
-### Colab filr link: https://colab.research.google.com/drive/19YbXvr6YNcqwMwTskzqi5L81po2yRiS6?usp=sharing
+### Colab file link: https://colab.research.google.com/drive/19YbXvr6YNcqwMwTskzqi5L81po2yRiS6?usp=sharing
 
 Here are the insights, along with charts:
 <img width="988" height="700" alt="Screenshot 2025-09-08 124234" src="https://github.com/user-attachments/assets/e028ba2b-abba-4601-a945-320933f5aeae" />
